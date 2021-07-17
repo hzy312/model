@@ -6,7 +6,7 @@
 
 * 数学建模-算法-汇总那个包里的资源还不错，可以以这个为主线学习一下算法。不用全懂，知道是干啥的就行，不用完全懂细节。到时候能找到对应算法就行。
 
-* Python数学实验与建模-程序及数据那个包是(python数学数学实验与建模)[http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000018957227&d=A1D7826D61D9E79F081F295992A86DB5&fenlei=1301080104]这本书的程序包，大家可以买来这本书来学习，主要是以python为实现的，书还不错。
+* Python数学实验与建模-程序及数据那个包是[python数学数学实验与建模](http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=000018957227&d=A1D7826D61D9E79F081F295992A86DB5&fenlei=1301080104)这本书的程序包，大家可以买来这本书来学习，主要是以python为实现的，书还不错。奥对，我觉得如果想要学python实现的话应该以这本书为主线，如果讲不清的话，直接上csdn或github上搜就行，有很多实现的，比如直接在csdn搜“遗传算法python实现，都可以直接拿过来用的。
 
 * 学习过程只要保证能知道每个算法大概是干啥的就行，不用太追求数学细节，很多东西都可以现场查。
 
@@ -18,14 +18,16 @@
 
 * 如果都不想看的话，可以去看机器学习，掌握一些常见的机器学习算法，反正是下学期的考试课，刚好算预习了，也不亏，掌握一下sklearn的用法。sklearn挺重要的，可以重点学习。
 
-* 如果会深度学习的话，可以稍稍看看pytorch，不过感觉应该用不到把。。。这个是官网[https://pytorch.org/]  我再传个pdf上来把。。
+* 如果会深度学习的话，可以稍稍看看pytorch，不过感觉应该用不到把。。。这个是[官网](https://pytorch.org/)  我再传个pdf上来把。。
+
+* [https://www.bilibili.com/video/BV1kC4y1a7Ee?from=search&seid=4124990666985493885]  这个逼在b站讲算法，不过是matlab实现的，不知道质量怎么样，我懒得看了。。。觉得他声音很难听。他们还有个交科研交流的公众号天天打广告赚钱。。。可以加一下了解一些信息。
 
   # ML resources
 
-  * cs229 [http://cs229.stanford.edu/syllabus-spring2021.html]
+  * [cs229](http://cs229.stanford.edu/syllabus-spring2021.html) ，点开网址就行
 
   * 周志华 机器学习
-  * 西瓜书配合南瓜书食用更好哦[https://github.com/datawhalechina/pumpkin-book],,,,点开这个网址直接下载就行，很清晰的。
+  * 西瓜书配合南瓜书食用更好哦[南瓜书](https://github.com/datawhalechina/pumpkin-book),,,,点开这个网址直接下载就行，很清晰的。
 
   * 李航 统计学习方法
 
