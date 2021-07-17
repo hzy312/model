@@ -1,0 +1,15 @@
+/* start of pkg.mlib */
+
+target    = "C";
+include   = "pkg.h";
+timestamp = "Sat Sep 04 22:31:38 2004";
+
+mrank {  /* M function name */
+    nin      = 1;        /* number of M inputs */
+    nout     = 1;        /* number of M outputs */
+    scope    = global;   /* where function defined */
+    cname    = mlfMrank;   /* mxArray in and out */
+    nargout  = 0;        /* nargout not used */
+}
+
+/* end of pkg.mlib */
